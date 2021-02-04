@@ -1,6 +1,6 @@
 {
-  "name": "hexo-renderer-pug-berry",
-  "version": "1.0.0",
+  "name": "@acwars/hexo-renderer-pug",
+  "version": "1.0.1",
   "description": "Pug renderer plugin for Hexo",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,8 @@
     "lib/",
     "index.js"
   ],
-  "repository": "acwars/hexo_renderer_pug_berry",
+  "repository": "acwars/hexo_renderer_pug",
+  "homepage": "https://github.com/acwars/hexo_generator_pug/",
   "keywords": [
     "hexo",
     "pug",

@@ -1,6 +1,6 @@
 ## Install
 
 ``` bash
-$ npm install hexo-renderer-pug-berry --save
+$ npm install @acwars/hexo-renderer-pug --save
 ```
 
